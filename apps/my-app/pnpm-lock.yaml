@@ -8,12 +8,6 @@ importers:
 
   .:
     dependencies:
-      '@tarabao/erpnext':
-        specifier: workspace:^
-        version: link:../../packages/erpnext
-      '@tarabao/shipping':
-        specifier: workspace:^
-        version: link:../../packages/shipping
       next:
         specifier: 15.1.6
         version: 15.1.6(react-dom@19.0.0(react@19.0.0))(react@19.0.0)
